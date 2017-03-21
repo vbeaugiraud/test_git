@@ -19,9 +19,5 @@ int main(int argc, char **argv) {
 
   return 0;
 }
-int liba_goodbye()
-	{
-	printf ("hello");
-	return();
-	}
+
 /* EOF */
